@@ -5,20 +5,19 @@ public class MyFirstProgram {
       hello("23");
       hello("user");
 
-      int a = 4;
-      System.out.println("Площадь кв " + a + " = "+ arik(a));
+      Square s = new Square(4);
+      System.out.println("Площадь кв " + s.a + " = "+ arik(s));
 
-      int l = 5;
-      int b = 5;
-      System.out.println("Площадь прям " + l +" и " + b + " = "+ aric(l, b));
+      Rectangle r = new Rectangle(5, 6);
+      System.out.println("Площадь прям " + r.l +" и " + r.b + " = "+ aric(r));
     }
     public static void hello(String a) {
       System.out.println("Hello, " + a + "!");
     }
-    public static int arik(int a) {
-      return a*a;
+    public static int arik(Square s) {
+      return s.a*s.a;
     }
-    public static int  aric(int l, int b) {
-      return l * b;
+    public static int  aric(Rectangle r) {
+      return r.l * r.b;
     }
 }
