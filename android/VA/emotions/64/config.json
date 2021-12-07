@@ -6,7 +6,7 @@
       ],
       "id": "shazam",
       "name": "64_shazam_sber.zip",
-      "required_in_startup": true,
+      "required_in_startup": false,
       "revision": 1,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_shazam_sber.zip"
     },
@@ -16,7 +16,7 @@
       ],
       "id": "smushchennaya_ulibka",
       "name": "64_smushchennaya_ulibka_sber.zip",
-      "required_in_startup": true,
+      "required_in_startup": false,
       "revision": 3,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_smushchennaya_ulibka_sber.zip"
     },
@@ -66,7 +66,7 @@
       ],
       "id": "load",
       "name": "64_load_sber.zip",
-      "required_in_startup": false,
+      "required_in_startup": true,
       "revision": 3,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_load_sber.zip"
     },
@@ -156,7 +156,7 @@
       ],
       "id": "listen",
       "name": "64_listen_sber.zip",
-      "required_in_startup": false,
+      "required_in_startup": true,
       "revision": 3,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_listen_sber.zip"
     },
@@ -646,7 +646,7 @@
       ],
       "id": "talk",
       "name": "64_talk_sber.zip",
-      "required_in_startup": false,
+      "required_in_startup": true,
       "revision": 3,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_talk_sber.zip"
     },
