@@ -1,0 +1,814 @@
+{
+  "objects": [
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "shazam",
+      "name": "64_shazam_sber.zip",
+      "required_in_startup": true,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_shazam_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "smushchennaya_ulibka",
+      "name": "64_smushchennaya_ulibka_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_smushchennaya_ulibka_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "predvkusheniye",
+      "name": "64_predvkusheniye_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_predvkusheniye_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "sochuvstvie",
+      "name": "64_sochuvstvie_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_sochuvstvie_eva.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "laugh",
+      "name": "64_laugh_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_laugh_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "bespokoistvo",
+      "name": "64_bespokoistvo_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_bespokoistvo_eva.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "load",
+      "name": "64_load_sber.zip",
+      "required_in_startup": true,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_load_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "simpatiya",
+      "name": "64_simpatiya_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_simpatiya_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "ok_prinyato",
+      "name": "64_ok_prinyato_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_ok_prinyato_joy.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "udovolstvie",
+      "name": "64_udovolstvie_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_udovolstvie_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "strakh",
+      "name": "64_strakh_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_strakh_joy.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "idle",
+      "name": "64_idle_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_idle_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "load",
+      "name": "64_load_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_load_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "pechal",
+      "name": "64_pechal_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_pechal_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "zhdu_otvet",
+      "name": "64_zhdu_otvet_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zhdu_otvet_eva.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "listen",
+      "name": "64_listen_sber.zip",
+      "required_in_startup": true,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_listen_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "listen",
+      "name": "64_listen_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_listen_joy.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "shazam",
+      "name": "64_shazam_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_shazam_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "pechal",
+      "name": "64_pechal_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_pechal_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "vinovatiy",
+      "name": "64_vinovatiy_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_vinovatiy_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "sochuvstvie",
+      "name": "64_sochuvstvie_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_sochuvstvie_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "predvkusheniye",
+      "name": "64_predvkusheniye_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_predvkusheniye_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "zainteresovannost",
+      "name": "64_zainteresovannost_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zainteresovannost_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "simpatiya",
+      "name": "64_simpatiya_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_simpatiya_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "zadumalsa",
+      "name": "64_zadumalsa_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zadumalsa_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "simpatiya",
+      "name": "64_simpatiya_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_simpatiya_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "bespokoistvo",
+      "name": "64_bespokoistvo_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_bespokoistvo_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "strakh",
+      "name": "64_strakh_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_strakh_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "nedoumenie",
+      "name": "64_nedoumenie_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nedoumenie_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "bespokoistvo",
+      "name": "64_bespokoistvo_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_bespokoistvo_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "load",
+      "name": "64_load_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_load_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "idle",
+      "name": "64_idle_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_idle_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "udovolstvie",
+      "name": "64_udovolstvie_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_udovolstvie_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "zhdu_otvet",
+      "name": "64_zhdu_otvet_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zhdu_otvet_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "strakh",
+      "name": "64_strakh_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_strakh_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "ok_prinyato",
+      "name": "64_ok_prinyato_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_ok_prinyato_eva.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "nedovolstvo",
+      "name": "64_nedovolstvo_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nedovolstvo_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "udovolstvie",
+      "name": "64_udovolstvie_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_udovolstvie_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "ok_prinyato",
+      "name": "64_ok_prinyato_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_ok_prinyato_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "listen",
+      "name": "64_listen_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_listen_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "shazam",
+      "name": "64_shazam_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_shazam_joy.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "pechal",
+      "name": "64_pechal_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_pechal_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "vinovatiy",
+      "name": "64_vinovatiy_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_vinovatiy_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "zhdu_otvet",
+      "name": "64_zhdu_otvet_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zhdu_otvet_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "sochuvstvie",
+      "name": "64_sochuvstvie_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_sochuvstvie_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "igrivost",
+      "name": "64_igrivost_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_igrivost_joy.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "oups",
+      "name": "64_oups_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_oups_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "nedoumenie",
+      "name": "64_nedoumenie_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nedoumenie_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "nesoglasie",
+      "name": "64_nesoglasie_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nesoglasie_eva.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "radost",
+      "name": "64_radost_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_radost_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "neznayu",
+      "name": "64_neznayu_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_neznayu_joy.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "nedovolstvo",
+      "name": "64_nedovolstvo_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nedovolstvo_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "radost",
+      "name": "64_radost_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_radost_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "talk",
+      "name": "64_talk_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_talk_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "zadumalsa",
+      "name": "64_zadumalsa_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zadumalsa_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "laugh",
+      "name": "64_laugh_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_laugh_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "neznayu",
+      "name": "64_neznayu_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_neznayu_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "zainteresovannost",
+      "name": "64_zainteresovannost_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zainteresovannost_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "smushchennaya_ulibka",
+      "name": "64_smushchennaya_ulibka_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_smushchennaya_ulibka_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "podavleniye_gneva",
+      "name": "64_podavleniye_gneva_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_podavleniye_gneva_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "vinovatiy",
+      "name": "64_vinovatiy_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_vinovatiy_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "nedoumenie",
+      "name": "64_nedoumenie_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nedoumenie_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "nesoglasie",
+      "name": "64_nesoglasie_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nesoglasie_sber.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "nesoglasie",
+      "name": "64_nesoglasie_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nesoglasie_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "talk",
+      "name": "64_talk_sber.zip",
+      "required_in_startup": true,
+      "revision": 2,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_talk_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "oups",
+      "name": "64_oups_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_oups_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "igrivost",
+      "name": "64_igrivost_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_igrivost_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "oups",
+      "name": "64_oups_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_oups_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "nedovolstvo",
+      "name": "64_nedovolstvo_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_nedovolstvo_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "radost",
+      "name": "64_radost_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_radost_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "podavleniye_gneva",
+      "name": "64_podavleniye_gneva_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_podavleniye_gneva_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "neznayu",
+      "name": "64_neznayu_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_neznayu_eva.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "zainteresovannost",
+      "name": "64_zainteresovannost_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zainteresovannost_joy.zip"
+    },
+    {
+      "characters": [
+        "joy"
+      ],
+      "id": "talk",
+      "name": "64_talk_joy.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_talk_joy.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "igrivost",
+      "name": "64_igrivost_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_igrivost_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "zadumalsa",
+      "name": "64_zadumalsa_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_zadumalsa_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "laugh",
+      "name": "64_laugh_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_laugh_eva.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "predvkusheniye",
+      "name": "64_predvkusheniye_sber.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_predvkusheniye_sber.zip"
+    },
+    {
+      "characters": [
+        "sber"
+      ],
+      "id": "idle",
+      "name": "64_idle_sber.zip",
+      "required_in_startup": true,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_idle_sber.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "smushchennaya_ulibka",
+      "name": "64_smushchennaya_ulibka_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_smushchennaya_ulibka_eva.zip"
+    },
+    {
+      "characters": [
+        "eva"
+      ],
+      "id": "podavleniye_gneva",
+      "name": "64_podavleniye_gneva_eva.zip",
+      "required_in_startup": false,
+      "revision": 1,
+      "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/okniks_resources/64/64_podavleniye_gneva_eva.zip"
+    }
+  ]
+}
